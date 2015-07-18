@@ -1,3 +1,6 @@
+That's nice. I managed to revert the local version to the one stored on-line through get fetch, followed by git checkout <file>. I wonder if there is a command to do both step at once. Now let's upload this change
+
+
 Personal changes in personal fork.
 In this I can create a alternative version of the files of a colleague whose repo I have forked. These changes will be contained in my forked repository. Some commands in github may allow me to submit my changes to the original author. But we won't learn this until later. 
 
