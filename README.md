@@ -1,3 +1,10 @@
+Personal changes in personal fork.
+In this I can create a alternative version of the files of a colleague whose repo I have forked. These changes will be contained in my forked repository. Some commands in github may allow me to submit my changes to the original author. But we won't learn this until later. 
+
+That's cool!
+
+M
+
 How to share data with a statistician
 ===========
 
