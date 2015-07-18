@@ -1,3 +1,6 @@
+Ok cool. So, if I modify a file accidentally in my computer, and I want to revert it to the saved version online, I simply do "git checkout -- <file>". I do not even need to do fetch.
+
+
 That's nice. I managed to revert the local version to the one stored on-line through get fetch, followed by git checkout <file>. I wonder if there is a command to do both step at once. Now let's upload this change
 
 
